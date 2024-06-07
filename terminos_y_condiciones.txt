@@ -1,0 +1,20 @@
+TÉRMINOS Y CONDICIONES DE USO
+
+Al descargar esta aplicación, el usuario deberá manifestar su aceptación a los presentes Términos y Condiciones de Uso a efecto de poder usar la aplicación. En caso de no aceptarlos, el usuario deberá de abstenerse de usar la aplicación.
+
+Alcance y Uso
+El presente producto está concebido como un soporte dirigido a los estudiantes de la UNP. Este producto es de uso libre y gratuito, sin fines de lucro.
+
+Responsabilidad del autor
+Los datos del usuario mostrados, utilizados y procesados en la app son extraídos de la web http://academico.unp.edu.pe/. El autor no es responsable de cualquier problema referente a la integridad de la información extraída. El autor no se hace responsable de la seguridad de los dispositivos que posean esta aplicación ni de pérdida o robo de información. 
+
+Obligaciones de los usuarios
+El usuario comprende que este producto NO es oficial ni tiene un vínculo legal con la Universidad Nacional de Piura. Además, concede permisos a la app para acceder a la web SIGA de la UNP utilizando su código universitario y contraseña, y para la extracción de información de usuario de la plataforma.
+
+Uso de Información y Privacidad
+Los datos de usuario extraídos de la plataforma web no son modificados y se muestran y procesan tal como fueron extraídos originalmente. La app recopilará datos del usuario como fechas de inicio de sesión y código universitario con fines académicos y de investigación. La app NO recopilará información privada del usuario como contraseñas o nombres y apellidos.
+
+Propiedad intelectual
+Este producto está sujeto a la licencia Creative Commons by-nc, siendo el autor intelectual y material del producto Calle Briceño José Daniel, estudiante de Ingeniería Informática Promoción 2017 de la Universidad Nacional de Piura.
+
+Los términos y condiciones de uso de este producto pueden cambiar sin previo aviso.
