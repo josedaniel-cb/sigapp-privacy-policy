@@ -1,0 +1,28 @@
+Política de Privacidad de Sigapp
+
+Última actualización: 2024-04-03
+
+Bienvenido a Sigapp, el cliente móvil no oficial para el Sistema Integrado de Gestión Académica de la Universidad Nacional de Piura. Esta política de privacidad tiene como objetivo informarte sobre cómo recopilamos, usamos y protegemos tu información al utilizar nuestra aplicación.
+
+Recopilación de Información
+Sigapp recopila los siguientes datos:
+
+Códigos Universitarios: Utilizamos un identificador único asignado a cada estudiante, conocido como código universitario.
+Timestamps de Actividad: Registramos timestamps para las interacciones con botones y pestañas dentro de la aplicación para entender el uso de la aplicación y mejorarla en el futuro.
+No recopilamos nombres, direcciones de correo electrónico, ubicación geográfica, edad, o cualquier otro dato personal.
+
+Uso de la Información
+La información recopilada se utiliza exclusivamente para fines académicos y análisis de uso de la aplicación de forma anónima. Estos análisis tienen como objetivo mejorar el servicio y ofrecer estadísticas generales sobre el uso de la aplicación, sin revelar información personal identificable de los usuarios.
+
+Acceso a tus Datos
+Actualmente, Sigapp no ofrece a los usuarios la capacidad de acceder, modificar o eliminar los datos recopilados por la aplicación. Sin embargo, los usuarios pueden interactuar con el sistema de la Universidad Nacional de Piura a través de Sigapp para gestionar su información personal.
+
+Seguridad
+Nos comprometemos a proteger la seguridad de tus datos. Aunque no se recopila información personal sensible, tomamos medidas para proteger todos los datos recopilados contra el acceso no autorizado, la divulgación o la destrucción.
+
+Contacto
+Si tienes preguntas sobre esta política de privacidad o sobre cómo manejamos tu información, puedes contactarnos a través de jose.daniel.calle.brice@gmail.com.
+
+Cambios a Esta Política de Privacidad
+Podemos actualizar nuestra política de privacidad ocasionalmente. Te notificaremos de cualquier cambio publicando la nueva política de privacidad en esta página.
+Esta política de privacidad es efectiva a partir de 2024-04-03.
